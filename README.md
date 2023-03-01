@@ -1,6 +1,4 @@
-# Spring Framework 5: Beginner to Guru
 
-This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
 
 The application is a simple Spring Boot 2 / Spring Framework 5 web application. It is used to help students learn how
 to use the Spring Framework. Step by step instructions and detailed explanations can be found within the course.
@@ -43,10 +41,3 @@ Got a question about your Spring Framework 5 course? [Checkout these FAQs!](http
 ### Web Development with Spring Framework
 * [Mastering Thymeleaf with Spring Boot](https://www.udemy.com/mastering-thymeleaf-with-spring/?couponCode=GITHUB_REPO_SF5B2G) - Once you learn Thymeleaf, you'll never want to go back to using JSPs for web development!
 
-
-## Connect with Spring Framework Guru
-* Spring Framework Guru [Blog](https://springframework.guru/)
-* Subscribe to Spring Framework Guru on [YouTube](https://www.youtube.com/channel/UCrXb8NaMPQCQkT8yMP_hSkw)
-* Like Spring Framework Guru on [Facebook](https://www.facebook.com/springframeworkguru/)
-* Follow Spring Framework Guru on [Twitter](https://twitter.com/spring_guru)
-* Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
